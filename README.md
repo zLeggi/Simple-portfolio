@@ -1,7 +1,7 @@
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](img/readme.PNG)
+![image](img/ReadMe.PNG)
 
 ## Ferramentas utilizadas:
 
